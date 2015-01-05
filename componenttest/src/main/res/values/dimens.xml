@@ -1,0 +1,7 @@
+<resources>
+    <!-- ptr -->
+    <dimen name="ptr_progress_bar_stroke_width">4dp</dimen>
+    <!-- listview animations -->
+    <dimen name="paddingTop">0dp</dimen>
+
+</resources>
